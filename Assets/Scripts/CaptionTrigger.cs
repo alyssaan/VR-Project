@@ -7,14 +7,6 @@ public class CaptionTrigger : MonoBehaviour
     [SerializeField] private GameObject npc;
     [SerializeField] private GameObject _caption;
 
-    [SerializeField] private GameObject sparrow;
-    [SerializeField] private GameObject squid;
-    [SerializeField] private GameObject snake;
-    [SerializeField] private GameObject monkey;
-    [SerializeField] private GameObject gecko;
-    [SerializeField] private GameObject fish;
-    [SerializeField] private GameObject muskrat;
-    [SerializeField] private GameObject deer;
 
     // Start is called before the first frame update
     void Start()
@@ -36,66 +28,10 @@ public class CaptionTrigger : MonoBehaviour
             {
                 if (target == npc)
                 {
-                    if (Input.GetKeyDown(KeyCode.E))
+                    if (Input.GetMouseButton(1) || Input.GetMouseButton(0))
                     {
                         target.GetComponent<Animator>().SetTrigger("Wave");
                         StartCoroutine(DisplayCaption(5f));
-                    }
-                }
-                if (target == sparrow)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == squid)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == snake)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == monkey)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == gecko)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == fish)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == muskrat)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
-                    }
-                }
-                if (target == deer)
-                {
-                    if (Input.GetKeyDown(KeyCode.E))
-                    {
-                        target.GetComponent<Animator>().SetTrigger("Interact");
                     }
                 }
             }
