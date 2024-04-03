@@ -419,6 +419,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 18
 =======
@@ -427,6 +428,9 @@ PrefabInstance:
 =======
       value: 36
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 18
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 18
 >>>>>>> parent of e57b12d (Added all animals)
@@ -610,6 +614,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 7
 =======
@@ -618,6 +623,9 @@ Transform:
 =======
   m_RootOrder: 45
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 7
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 7
 >>>>>>> parent of e57b12d (Added all animals)
@@ -1190,6 +1198,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 4
 =======
@@ -1198,6 +1207,9 @@ PrefabInstance:
 =======
       value: 42
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 4
 >>>>>>> parent of e57b12d (Added all animals)
@@ -2490,7 +2502,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 71
@@ -2507,12 +2522,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 6
 >>>>>>> Stashed changes
 =======
       value: 7
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -3035,7 +3053,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 73
@@ -3052,12 +3073,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 8
 >>>>>>> Stashed changes
 =======
       value: 9
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -3383,7 +3407,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 67
@@ -3400,12 +3427,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 2
 >>>>>>> Stashed changes
 =======
       value: 3
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -3932,6 +3962,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 10
 =======
@@ -3940,6 +3971,9 @@ PrefabInstance:
 =======
       value: 2
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 10
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 10
 >>>>>>> parent of e57b12d (Added all animals)
@@ -4204,6 +4238,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 38
 =======
@@ -4212,6 +4247,9 @@ PrefabInstance:
 =======
       value: 28
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 38
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 38
 >>>>>>> parent of e57b12d (Added all animals)
@@ -4272,7 +4310,10 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 105b83a46d287294bbe7892a1e1f2ea3, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
 --- !u!4 &199058051 stripped
@@ -4280,6 +4321,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
   m_PrefabInstance: {fileID: 1673883054}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1001 &197196642
@@ -4418,6 +4460,8 @@ BoxCollider:
 >>>>>>> Stashed changes
 =======
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
 --- !u!1001 &199925932
@@ -4714,6 +4758,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 13
 =======
@@ -4722,6 +4767,9 @@ PrefabInstance:
 =======
       value: 19
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 13
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 13
 >>>>>>> parent of e57b12d (Added all animals)
@@ -5277,6 +5325,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 4
 =======
@@ -5285,6 +5334,9 @@ PrefabInstance:
 =======
       value: 58
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 4
 >>>>>>> parent of e57b12d (Added all animals)
@@ -6745,7 +6797,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 68
@@ -6762,12 +6817,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 3
 >>>>>>> Stashed changes
 =======
       value: 4
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -6911,6 +6969,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 3
 =======
@@ -6919,6 +6978,9 @@ Transform:
 =======
   m_RootOrder: 41
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 3
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 3
 >>>>>>> parent of e57b12d (Added all animals)
@@ -7392,6 +7454,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 19
 =======
@@ -7400,6 +7463,9 @@ PrefabInstance:
 =======
       value: 37
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 19
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 19
 >>>>>>> parent of e57b12d (Added all animals)
@@ -7473,6 +7539,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 17
 =======
@@ -7481,6 +7548,9 @@ PrefabInstance:
 =======
       value: 35
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 17
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 17
 >>>>>>> parent of e57b12d (Added all animals)
@@ -7550,6 +7620,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 9
 =======
@@ -7558,6 +7629,9 @@ PrefabInstance:
 =======
       value: 52
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 9
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 9
 >>>>>>> parent of e57b12d (Added all animals)
@@ -7944,6 +8018,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 1
 =======
@@ -7952,6 +8027,9 @@ Transform:
 =======
   m_RootOrder: 39
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 1
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 1
 >>>>>>> parent of e57b12d (Added all animals)
@@ -8165,6 +8243,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 12
 =======
@@ -8173,6 +8252,9 @@ PrefabInstance:
 =======
       value: 50
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 12
 >>>>>>> parent of e57b12d (Added all animals)
@@ -9080,7 +9162,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 74
@@ -9097,12 +9182,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 9
 >>>>>>> Stashed changes
 =======
       value: 10
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -9780,6 +9868,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 44
 =======
@@ -9788,6 +9877,9 @@ PrefabInstance:
 =======
       value: 34
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 44
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 44
 >>>>>>> parent of e57b12d (Added all animals)
@@ -11087,6 +11179,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 43
 =======
@@ -11095,6 +11188,9 @@ PrefabInstance:
 =======
       value: 33
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 43
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 43
 >>>>>>> parent of e57b12d (Added all animals)
@@ -11424,6 +11520,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 15
 =======
@@ -11432,6 +11529,9 @@ PrefabInstance:
 =======
       value: 21
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 15
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 15
 >>>>>>> parent of e57b12d (Added all animals)
@@ -12311,7 +12411,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 80
@@ -12328,12 +12431,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 16
 >>>>>>> Stashed changes
 =======
       value: 17
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -13638,7 +13744,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 33
@@ -13655,12 +13764,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 22
 >>>>>>> Stashed changes
 =======
       value: 23
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -14311,6 +14423,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 3
 =======
@@ -14319,6 +14432,9 @@ PrefabInstance:
 =======
       value: 57
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 3
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 3
 >>>>>>> parent of e57b12d (Added all animals)
@@ -14791,6 +14907,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 1
 =======
@@ -14799,6 +14916,9 @@ PrefabInstance:
 =======
       value: 55
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 1
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 1
 >>>>>>> parent of e57b12d (Added all animals)
@@ -15485,7 +15605,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 78
@@ -15494,12 +15617,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 14
 >>>>>>> Stashed changes
 =======
       value: 15
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -16170,6 +16296,7 @@ RectTransform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 10
 =======
@@ -16178,6 +16305,9 @@ RectTransform:
 =======
   m_RootOrder: 48
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 10
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 10
 >>>>>>> parent of e57b12d (Added all animals)
@@ -17006,7 +17136,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
 --- !u!4 &988713145 stripped
@@ -17014,6 +17147,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
   m_PrefabInstance: {fileID: 908967799}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 --- !u!1 &987740529
@@ -17058,6 +17192,8 @@ Transform:
 >>>>>>> Stashed changes
 =======
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
 --- !u!1001 &992412540
@@ -17576,6 +17712,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 2
 =======
@@ -17584,6 +17721,9 @@ Transform:
 =======
   m_RootOrder: 40
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 2
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 2
 >>>>>>> parent of e57b12d (Added all animals)
@@ -17879,7 +18019,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 75
@@ -17896,12 +18039,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 10
 >>>>>>> Stashed changes
 =======
       value: 11
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -19119,6 +19265,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 39
 =======
@@ -19127,6 +19274,9 @@ PrefabInstance:
 =======
       value: 29
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 39
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 39
 >>>>>>> parent of e57b12d (Added all animals)
@@ -19449,6 +19599,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 2
 =======
@@ -19457,6 +19608,9 @@ PrefabInstance:
 =======
       value: 56
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 2
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 2
 >>>>>>> parent of e57b12d (Added all animals)
@@ -20221,6 +20375,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 0
 =======
@@ -20229,6 +20384,9 @@ PrefabInstance:
 =======
       value: 54
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 0
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 0
 >>>>>>> parent of e57b12d (Added all animals)
@@ -21058,6 +21216,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 5
 =======
@@ -21066,6 +21225,9 @@ PrefabInstance:
 =======
       value: 59
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 5
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 5
 >>>>>>> parent of e57b12d (Added all animals)
@@ -21139,6 +21301,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 6
 =======
@@ -21147,6 +21310,9 @@ PrefabInstance:
 =======
       value: 44
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 6
 >>>>>>> parent of e57b12d (Added all animals)
@@ -21282,6 +21448,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 14
 =======
@@ -21290,6 +21457,9 @@ Transform:
 =======
   m_RootOrder: 53
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 14
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 14
 >>>>>>> parent of e57b12d (Added all animals)
@@ -21433,7 +21603,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 69
@@ -21450,12 +21623,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 4
 >>>>>>> Stashed changes
 =======
       value: 5
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -21702,6 +21878,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 6
 =======
@@ -21710,6 +21887,9 @@ PrefabInstance:
 =======
       value: 60
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 6
 >>>>>>> parent of e57b12d (Added all animals)
@@ -22009,6 +22189,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 35
 =======
@@ -22017,6 +22198,9 @@ PrefabInstance:
 =======
       value: 25
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 35
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 35
 >>>>>>> parent of e57b12d (Added all animals)
@@ -22473,6 +22657,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 14
 =======
@@ -22481,6 +22666,9 @@ PrefabInstance:
 =======
       value: 20
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 14
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 14
 >>>>>>> parent of e57b12d (Added all animals)
@@ -22682,6 +22870,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 8
 =======
@@ -22690,6 +22879,9 @@ PrefabInstance:
 =======
       value: 62
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 8
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 8
 >>>>>>> parent of e57b12d (Added all animals)
@@ -24044,7 +24236,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 72
@@ -24061,12 +24256,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 7
 >>>>>>> Stashed changes
 =======
       value: 8
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -24257,6 +24455,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 16
 =======
@@ -24265,6 +24464,9 @@ Transform:
 =======
   m_RootOrder: 61
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 16
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 16
 >>>>>>> parent of e57b12d (Added all animals)
@@ -24688,6 +24890,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 11
 =======
@@ -24696,6 +24899,9 @@ PrefabInstance:
 =======
       value: 13
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 11
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 11
 >>>>>>> parent of e57b12d (Added all animals)
@@ -25289,7 +25495,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 36
@@ -25306,12 +25515,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 25
 >>>>>>> Stashed changes
 =======
       value: 26
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -25541,6 +25753,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 5
 =======
@@ -25549,6 +25762,9 @@ Transform:
 =======
   m_RootOrder: 43
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 5
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 5
 >>>>>>> parent of e57b12d (Added all animals)
@@ -25568,7 +25784,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 42
@@ -25585,12 +25804,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 31
 >>>>>>> Stashed changes
 =======
       value: 32
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -25913,6 +26135,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 13
 =======
@@ -25921,6 +26144,9 @@ Transform:
 =======
   m_RootOrder: 51
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 13
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 13
 >>>>>>> parent of e57b12d (Added all animals)
@@ -26018,7 +26244,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
 --- !u!4 &1532319879 stripped
@@ -27630,7 +27859,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 70
@@ -27647,12 +27879,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 5
 >>>>>>> Stashed changes
 =======
       value: 6
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -28031,7 +28266,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 76
@@ -28048,12 +28286,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 11
 >>>>>>> Stashed changes
 =======
       value: 12
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -28114,7 +28355,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 37
@@ -28131,12 +28375,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 26
 >>>>>>> Stashed changes
 =======
       value: 27
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -28705,7 +28952,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 34
@@ -28722,12 +28972,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 23
 >>>>>>> Stashed changes
 =======
       value: 24
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -29195,6 +29448,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 16
 =======
@@ -29203,6 +29457,9 @@ PrefabInstance:
 =======
       value: 22
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 16
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 16
 >>>>>>> parent of e57b12d (Added all animals)
@@ -29395,6 +29652,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 11
 =======
@@ -29403,6 +29661,9 @@ Transform:
 =======
   m_RootOrder: 49
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 11
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 11
 >>>>>>> parent of e57b12d (Added all animals)
@@ -29667,7 +29928,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 41
@@ -29684,12 +29948,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 30
 >>>>>>> Stashed changes
 =======
       value: 31
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -30155,7 +30422,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 79
@@ -30172,12 +30442,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 15
 >>>>>>> Stashed changes
 =======
       value: 16
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -31147,6 +31420,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 20
 =======
@@ -31155,6 +31429,9 @@ PrefabInstance:
 =======
       value: 38
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 20
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 20
 >>>>>>> parent of e57b12d (Added all animals)
@@ -32793,7 +33070,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 77
@@ -32802,12 +33082,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.x
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 13
 >>>>>>> Stashed changes
 =======
       value: 14
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
@@ -34442,6 +34725,7 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       value: 12
 =======
@@ -34450,6 +34734,9 @@ PrefabInstance:
 =======
       value: 18
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
 =======
       value: 12
 >>>>>>> parent of e57b12d (Added all animals)
@@ -35554,6 +35841,7 @@ Transform:
   m_Father: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   m_RootOrder: 8
 =======
@@ -35562,6 +35850,9 @@ Transform:
 =======
   m_RootOrder: 46
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 8
+>>>>>>> parent of e57b12d (Added all animals)
 =======
   m_RootOrder: 8
 >>>>>>> parent of e57b12d (Added all animals)
@@ -35802,7 +36093,10 @@ PrefabInstance:
       propertyPath: m_RootOrder
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       value: 40
@@ -35819,12 +36113,15 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1.4757862
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       value: 29
 >>>>>>> Stashed changes
 =======
       value: 30
 >>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 =======
 >>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
