@@ -417,7 +417,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 18
+=======
+      value: 35
+>>>>>>> Stashed changes
+=======
       value: 36
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 18
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 18
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
       propertyPath: m_LocalScale.x
@@ -596,7 +612,23 @@ Transform:
   - {fileID: 866530350}
   - {fileID: 1395361482}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 7
+=======
+  m_RootOrder: 44
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 45
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 7
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 7
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &20055040
 GameObject:
@@ -1164,7 +1196,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3353205183221301370, guid: f6cd065603fad8241a839101b0e240ac, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 4
+=======
+      value: 41
+>>>>>>> Stashed changes
+=======
       value: 42
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 3353205183221301370, guid: f6cd065603fad8241a839101b0e240ac, type: 3}
       propertyPath: m_LocalScale.x
@@ -2504,7 +2552,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 71
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 6
+>>>>>>> Stashed changes
+=======
       value: 7
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3023,7 +3103,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 73
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 8
+>>>>>>> Stashed changes
+=======
       value: 9
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3345,7 +3457,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 67
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 2
+>>>>>>> Stashed changes
+=======
       value: 3
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3868,7 +4012,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6463103279978990837, guid: 87b04a6b131597e4db952f9810390439, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 10
+=======
+      value: 1
+>>>>>>> Stashed changes
+=======
       value: 2
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 10
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 10
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 6463103279978990837, guid: 87b04a6b131597e4db952f9810390439, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4128,7 +4288,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 444600, guid: 105b83a46d287294bbe7892a1e1f2ea3, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 38
+=======
+      value: 27
+>>>>>>> Stashed changes
+=======
       value: 28
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 38
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 38
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 444600, guid: 105b83a46d287294bbe7892a1e1f2ea3, type: 3}
       propertyPath: m_LocalScale.x
@@ -4184,6 +4360,162 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 105b83a46d287294bbe7892a1e1f2ea3, type: 3}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+--- !u!4 &199058051 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
+  m_PrefabInstance: {fileID: 1673883054}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1001 &197196642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 987740530}
+    m_Modifications:
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -153.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.2929535
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -107.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182162820492919152, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+      propertyPath: m_Name
+      value: Monkey
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 1148682066818756815, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+--- !u!4 &197196643 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4992758198669102562, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+  m_PrefabInstance: {fileID: 197196642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &197196644 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6182162820492919152, guid: 84b7c8441f160174fa5c6f94cf397f0a, type: 3}
+  m_PrefabInstance: {fileID: 197196642}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &197196645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197196644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7bda1abff94d4e54b3a9d3eafd53b54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isMoving: 0
+  areaOfMove: 10
+--- !u!195 &197196646
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197196644}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!65 &197196647
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 197196644}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.5691899, y: 0.8186064, z: 1.2720909}
+  m_Center: {x: 0.003779153, y: 0.40435714, z: -0.045348488}
+>>>>>>> Stashed changes
+=======
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 --- !u!1001 &199925932
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4476,7 +4808,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 13
+=======
+      value: 18
+>>>>>>> Stashed changes
+=======
       value: 19
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 13
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 13
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -5081,7 +5429,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 4
+=======
+      value: 56
+>>>>>>> Stashed changes
+=======
       value: 58
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 4
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_LocalScale.x
@@ -6673,7 +7037,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 68
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 3
+>>>>>>> Stashed changes
+=======
       value: 4
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6813,7 +7209,23 @@ Transform:
   - {fileID: 2130334427}
   - {fileID: 887451275}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 3
+=======
+  m_RootOrder: 40
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 41
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 3
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 3
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &379851471
 PrefabInstance:
@@ -7336,7 +7748,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 19
+=======
+      value: 36
+>>>>>>> Stashed changes
+=======
       value: 37
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 19
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 19
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_LocalScale.x
@@ -7405,7 +7833,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 17
+=======
+      value: 34
+>>>>>>> Stashed changes
+=======
       value: 35
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 17
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 17
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_LocalScale.x
@@ -7470,7 +7914,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 9
+=======
+      value: 50
+>>>>>>> Stashed changes
+=======
       value: 52
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 9
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 9
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -7852,7 +8312,23 @@ Transform:
   - {fileID: 1172660339}
   - {fileID: 831172816}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 1
+=======
+  m_RootOrder: 38
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 39
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 1
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 1
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &412845132
 PrefabInstance:
@@ -8061,7 +8537,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: e069613ea55e5e54fa2993c5f741cf23, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 12
+=======
+      value: 48
+>>>>>>> Stashed changes
+=======
       value: 50
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e069613ea55e5e54fa2993c5f741cf23, type: 3}
       propertyPath: m_LocalScale.x
@@ -8964,7 +9456,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 74
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 9
+>>>>>>> Stashed changes
+=======
       value: 10
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9638,7 +10162,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6359112800851487366, guid: c0695e50372965840badd7b84ed57617, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 44
+=======
+      value: 33
+>>>>>>> Stashed changes
+=======
       value: 34
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 44
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 44
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 6359112800851487366, guid: c0695e50372965840badd7b84ed57617, type: 3}
       propertyPath: m_LocalScale.x
@@ -10933,7 +11473,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 418006, guid: 329d0b0187f24cd4da9f775d83708bd6, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 43
+=======
+      value: 32
+>>>>>>> Stashed changes
+=======
       value: 33
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 43
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 43
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 418006, guid: 329d0b0187f24cd4da9f775d83708bd6, type: 3}
       propertyPath: m_LocalScale.x
@@ -11258,7 +11814,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4114348814129731227, guid: c185f4228ecc7b14cb47ae816197d6b4, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 15
+=======
+      value: 20
+>>>>>>> Stashed changes
+=======
       value: 21
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 15
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 15
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 4114348814129731227, guid: c185f4228ecc7b14cb47ae816197d6b4, type: 3}
       propertyPath: m_LocalScale.x
@@ -12133,7 +12705,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 16
+>>>>>>> Stashed changes
+=======
       value: 17
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 494376, guid: 76be61eeff2e7164cb99e1cf8cf0c22b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -13434,7 +14038,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 22
+>>>>>>> Stashed changes
+=======
       value: 23
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 468142, guid: ace40d2a4a1290f4f96f01a7e4ecd7f7, type: 3}
       propertyPath: m_LocalPosition.x
@@ -14081,7 +14717,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 3
+=======
+      value: 55
+>>>>>>> Stashed changes
+=======
       value: 57
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 3
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 3
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -14549,7 +15201,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 1
+=======
+      value: 53
+>>>>>>> Stashed changes
+=======
       value: 55
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 1
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 1
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -15305,7 +15973,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 78
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 14
+>>>>>>> Stashed changes
+=======
       value: 15
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalScale.y
@@ -15980,7 +16672,23 @@ RectTransform:
   m_Children:
   - {fileID: 911205497}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 10
+=======
+  m_RootOrder: 46
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 48
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 10
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 10
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -16952,6 +17660,68 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 451528, guid: 78c29697749a6d44e964f9a0cf83d77a, type: 3}
   m_PrefabInstance: {fileID: 986147358}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+--- !u!4 &988713145 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+  m_PrefabInstance: {fileID: 908967799}
+  m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+--- !u!1 &987740529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 987740530}
+  m_Layer: 0
+  m_Name: Animals
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &987740530
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 987740529}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 41.91, y: 0.000015258789, z: 28.91}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1301702993}
+  - {fileID: 1729825535}
+  - {fileID: 1376036479}
+  - {fileID: 197196643}
+  - {fileID: 824406166}
+  - {fileID: 1456237773}
+  - {fileID: 2127886646}
+  - {fileID: 1090617453}
+  m_Father: {fileID: 0}
+  m_RootOrder: 61
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> Stashed changes
+=======
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
 --- !u!1001 &992412540
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17466,7 +18236,23 @@ Transform:
   - {fileID: 387840633}
   - {fileID: 1467691827}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 2
+=======
+  m_RootOrder: 39
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 40
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 2
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 2
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1033094225
 PrefabInstance:
@@ -17757,7 +18543,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 10
+>>>>>>> Stashed changes
+=======
       value: 11
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalPosition.x
@@ -19045,7 +19863,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 39
+=======
+      value: 28
+>>>>>>> Stashed changes
+=======
       value: 29
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 39
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 39
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
       propertyPath: m_LocalScale.x
@@ -19363,7 +20197,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 2
+=======
+      value: 54
+>>>>>>> Stashed changes
+=======
       value: 56
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 2
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 2
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -20123,7 +20973,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 0
+=======
+      value: 52
+>>>>>>> Stashed changes
+=======
       value: 54
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 0
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 0
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -20948,7 +21814,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 5
+=======
+      value: 57
+>>>>>>> Stashed changes
+=======
       value: 59
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 5
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 5
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_LocalScale.x
@@ -21071,7 +21953,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 266432281443814168, guid: 8c2d3588d63061d41b5142b95e5bc969, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 6
+=======
+      value: 43
+>>>>>>> Stashed changes
+=======
       value: 44
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 266432281443814168, guid: 8c2d3588d63061d41b5142b95e5bc969, type: 3}
       propertyPath: m_LocalScale.x
@@ -21202,7 +22100,23 @@ Transform:
   - {fileID: 1127375083}
   - {fileID: 1901925670}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 14
+=======
+  m_RootOrder: 51
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 53
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 14
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 14
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1292559123
 PrefabInstance:
@@ -21341,7 +22255,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 69
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 4
+>>>>>>> Stashed changes
+=======
       value: 5
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21584,7 +22530,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 6
+=======
+      value: 58
+>>>>>>> Stashed changes
+=======
       value: 60
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 6
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_LocalScale.x
@@ -21879,7 +22841,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 408956, guid: be320b6d231cacc4894038f2c3375674, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 35
+=======
+      value: 24
+>>>>>>> Stashed changes
+=======
       value: 25
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 35
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 35
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 408956, guid: be320b6d231cacc4894038f2c3375674, type: 3}
       propertyPath: m_LocalScale.x
@@ -22331,7 +23309,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 14
+=======
+      value: 19
+>>>>>>> Stashed changes
+=======
       value: 20
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 14
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 14
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 522459008932552855, guid: 23bd600a3424d9e44ac451d447977c93, type: 3}
       propertyPath: m_LocalScale.x
@@ -22528,7 +23522,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6463103279978990837, guid: 87b04a6b131597e4db952f9810390439, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 8
+=======
+      value: 60
+>>>>>>> Stashed changes
+=======
       value: 62
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 8
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 8
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 6463103279978990837, guid: 87b04a6b131597e4db952f9810390439, type: 3}
       propertyPath: m_LocalPosition.x
@@ -23878,7 +24888,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 72
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 7
+>>>>>>> Stashed changes
+=======
       value: 8
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 403426, guid: 55ca4401075700d46a23ae8179a79579, type: 3}
       propertyPath: m_LocalPosition.x
@@ -24065,7 +25107,23 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 16
+=======
+  m_RootOrder: 59
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 61
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 16
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 16
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 34.382, z: 0}
 --- !u!1001 &1432969269
 PrefabInstance:
@@ -24484,7 +25542,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 11
+=======
+      value: 12
+>>>>>>> Stashed changes
+=======
       value: 13
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 11
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 11
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -25073,7 +26147,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 36
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757861
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 25
+>>>>>>> Stashed changes
+=======
       value: 26
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25299,7 +26405,23 @@ Transform:
   - {fileID: 1401634129}
   - {fileID: 279766870}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 5
+=======
+  m_RootOrder: 42
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 43
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 5
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 5
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1504900193
 PrefabInstance:
@@ -25314,7 +26436,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 435960, guid: 1fdb4e5d510354f43bcd6ed13b8eb3be, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 42
+      objectReference: {fileID: 0}
+    - target: {fileID: 435960, guid: 1fdb4e5d510354f43bcd6ed13b8eb3be, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 435960, guid: 1fdb4e5d510354f43bcd6ed13b8eb3be, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 435960, guid: 1fdb4e5d510354f43bcd6ed13b8eb3be, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 31
+>>>>>>> Stashed changes
+=======
       value: 32
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 435960, guid: 1fdb4e5d510354f43bcd6ed13b8eb3be, type: 3}
       propertyPath: m_LocalPosition.x
@@ -25633,7 +26787,23 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 13
+=======
+  m_RootOrder: 49
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 51
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 13
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 13
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1519103904
 MonoBehaviour:
@@ -25726,6 +26896,21 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4930412879328554165, guid: 974f154b74c6e4058835f896c7aa372b, type: 3}
   m_PrefabInstance: {fileID: 1527762823}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+--- !u!4 &1532319879 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
+  m_PrefabInstance: {fileID: 856608132}
+  m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of cb1dfeb (sounds)
 --- !u!1001 &1536600927
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27326,7 +28511,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 5
+>>>>>>> Stashed changes
+=======
       value: 6
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 409628, guid: 702740a5e4ac1ee40a1888d3b62faa91, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27701,7 +28918,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 76
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 11
+>>>>>>> Stashed changes
+=======
       value: 12
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalPosition.x
@@ -27758,7 +29007,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 37
+      objectReference: {fileID: 0}
+    - target: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 26
+>>>>>>> Stashed changes
+=======
       value: 27
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 474244, guid: 75283e9ef15245c4aab126ec6525dd2a, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28377,7 +29658,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 34
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 23
+>>>>>>> Stashed changes
+=======
       value: 24
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 486942, guid: b73c6c1069411b947aaaa9d12c37c652, type: 3}
       propertyPath: m_LocalPosition.x
@@ -28841,7 +30154,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8407946972163067645, guid: 92101ed146e7f434cb43a3680c518e75, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 16
+=======
+      value: 21
+>>>>>>> Stashed changes
+=======
       value: 22
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 16
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 16
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8407946972163067645, guid: 92101ed146e7f434cb43a3680c518e75, type: 3}
       propertyPath: m_LocalScale.x
@@ -29029,7 +30358,23 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 11
+=======
+  m_RootOrder: 47
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 49
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 11
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 11
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1735119856
 PrefabInstance:
@@ -29289,7 +30634,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 489978, guid: 2d521608fcf07c346b5e2ed4049aa717, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 41
+      objectReference: {fileID: 0}
+    - target: {fileID: 489978, guid: 2d521608fcf07c346b5e2ed4049aa717, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 489978, guid: 2d521608fcf07c346b5e2ed4049aa717, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 489978, guid: 2d521608fcf07c346b5e2ed4049aa717, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 30
+>>>>>>> Stashed changes
+=======
       value: 31
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 489978, guid: 2d521608fcf07c346b5e2ed4049aa717, type: 3}
       propertyPath: m_LocalPosition.x
@@ -29751,7 +31128,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 79
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 15
+>>>>>>> Stashed changes
+=======
       value: 16
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalPosition.x
@@ -30791,7 +32200,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 20
+=======
+      value: 37
+>>>>>>> Stashed changes
+=======
       value: 38
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 20
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 20
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 1207449177372256145, guid: 46ca9bca5d4d6824c9973375d741a3df, type: 3}
       propertyPath: m_LocalScale.x
@@ -32607,7 +34032,31 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 77
+      objectReference: {fileID: 0}
+    - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 13
+>>>>>>> Stashed changes
+=======
       value: 14
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 470440, guid: 8ed1fa325ca228645ad26dd6eff14768, type: 3}
       propertyPath: m_LocalScale.y
@@ -34238,7 +35687,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+      value: 12
+=======
+      value: 17
+>>>>>>> Stashed changes
+=======
       value: 18
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+      value: 12
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 8915715655105293615, guid: 5693a57c90ef40744848833e4aa5eff8, type: 3}
       propertyPath: m_LocalScale.x
@@ -35412,7 +36877,23 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+  m_RootOrder: 8
+=======
+  m_RootOrder: 45
+>>>>>>> Stashed changes
+=======
   m_RootOrder: 46
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+  m_RootOrder: 8
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+  m_RootOrder: 8
+>>>>>>> parent of e57b12d (Added all animals)
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &2136623536
 GameObject:
@@ -35648,7 +37129,39 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+      value: 40
+      objectReference: {fileID: 0}
+    - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.4757862
+      objectReference: {fileID: 0}
+    - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.4757862
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+      value: 29
+>>>>>>> Stashed changes
+=======
       value: 30
+>>>>>>> parent of cb1dfeb (sounds)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
+=======
+>>>>>>> parent of e57b12d (Added all animals)
       objectReference: {fileID: 0}
     - target: {fileID: 468178, guid: e9661e4c2bfea8344a07064944abe034, type: 3}
       propertyPath: m_LocalPosition.x
